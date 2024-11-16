@@ -1,0 +1,118 @@
+<begin>
+S	XY	R	-20	-20	40	40
+E	E	5
+S	XY	R	-20	-20	5	5
+E	E	-25
+S	XY	R	15	-20	5	5
+E	E	-25
+S	XY	R	-20	15	5	5
+E	E	-25
+S	XY	R	15	15	5	5
+E	E	-25
+S	XY	R	-20	15	40	5
+E	E	35
+<end>
+<begin>
+S	XY	R	-20	-20	40	40
+E	E	5
+S	XY	R	-20	-20	40	40
+E	E	-25
+S	XY	R	-20	15	40	5
+E	E	35
+<end>
+<begin>
+S	XY	R	-20	-20	40	40
+E	E	5
+S	XY	C	-15	-15	5
+E	E	-25
+S	XY	C	-15	15	5
+E	E	-25
+S	XY	C	15	15	5
+E	E	-25
+S	XY	C	15	-15	5
+E	E	-25
+S	XY	R	-20	15	40	5
+E	E	35
+<end>
+<begin>
+S	XY	C	0	0	40
+E	E	5
+S	XY	R	-2.5	-2.5	5	5
+E	E	-25
+S	YZ	R	-12.5	-25	25	2.5
+E	E	2.5
+S	YZ	R	-12.5	-25	25	2.5
+E	E	-2.5
+S	YZ	R	-2.5	-25	5	2.5
+E	E	12.5
+S	YZ	R	-2.5	-25	5	2.5
+E	E	-12.5
+S	YZ	R	0	-5	25	5
+E	E	2.5
+S	YZ	R	0	-5	25	5
+E	E	-2.5
+S	YZ	R	20	0	5	30
+E	E	2.5
+S	YZ	R	20	0	5	30
+E	E	-2.5
+S	YZ	R	20	15	5	15
+E	E	15
+S	YZ	R	20	15	5	15
+E	E	-15
+<end>
+<begin>
+S	XY	R	-20	-20	40	40
+E	E	5
+S	YZ	R	-20	-25	5	25
+E	E	20
+S	YZ	R	-20	-25	5	25
+E	E	-20
+S	YZ	R	20	-25	5	60
+E	E	20
+S	YZ	R	20	-25	5	60
+E	E	-20
+S	ZX	R	-15	10	5	20
+E	C	25
+S	ZX	R	10	10	5	20
+E	C	25
+<end>
+<begin>
+S	XY	R	-20	-40	40	40
+E	E	5
+S	YZ	R	-40	-25	5	25
+E	E	20
+S	YZ	R	-40	-25	5	25
+E	E	-20
+S	YZ	R	0	-25	5	60
+E	E	20
+S	YZ	R	0	-25	5	60
+E	E	-20
+S	ZX	C	0	35	40
+E	E	5
+S	ZX	C	0	-25	20
+E	C	5
+S	ZX	C	0	-25	20
+E	C	-40
+<end>
+<begin>
+S	XY	R	-20	-20	40	40
+E	E	5
+S	XY	R	-20	-20	5	5
+E	E	-25
+S	XY	R	15	-20	5	5
+E	E	-25
+S	XY	R	-20	15	5	5
+E	E	-25
+S	XY	R	15	15	5	5
+E	E	-25
+S	XY	R	-20	15	40	5
+E	E	35
+<end>
+<begin>
+S	XY	R	-20	-20	40	40
+E	E	5
+S	XY	R	-20	-20	40	40
+E	E	-25
+S	XY	R	-20	15	40	5
+E	E	35
+<end>
